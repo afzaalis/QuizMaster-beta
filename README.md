@@ -3,6 +3,7 @@
 
 ---
 # APLIKASI SIMPLE QUIZ USING REACT
+![image](https://github.com/user-attachments/assets/48a7eaff-5e5e-40d8-87f6-0d32eb6f1a7d)
 
 ## Fitur
 
