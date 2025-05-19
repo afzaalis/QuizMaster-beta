@@ -1,5 +1,5 @@
 # Frontend React Challenges  
-**DOT Indonesia Intern Batch 3**
+**DOT Indonesia Intern Batch**
 
 ---
 # APLIKASI SIMPLE QUIZ USING REACT
